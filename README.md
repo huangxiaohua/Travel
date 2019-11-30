@@ -1,3 +1,3 @@
 # Travel
 
-# Vue 2.5 
+# Vue
